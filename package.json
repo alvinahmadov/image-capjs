@@ -1,0 +1,21 @@
+{
+	"name": "image-cap",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"run": "node index.js"
+	},
+	"dependencies": {
+		"@tensorflow/tfjs-node": "^2.8.5",
+		"canvas": "^2.6.1",
+		"jimp": "^0.16.1",
+		"js-yaml": "^4.0.0",
+		"jsdom": "^16.4.0",
+		"jsonfile": "^6.1.0",
+		"opencv-wasm": "^4.3.0-10"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
